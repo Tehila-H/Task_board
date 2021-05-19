@@ -1,0 +1,32 @@
+.form{
+    text-align: center;
+    margin-top: 100px;
+    border: 2px solid black;
+    /* background-color: bisque; */
+    background-image:  url("../assets/15.png");
+    margin-left: 35%;
+    margin-right: 35%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.form input{
+    border-radius: 8px;
+    width: 60%;
+    height: 25px;
+    margin-bottom: 12px;
+    font-size:medium;
+    /* font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.btn:hover{
+    /* width: 50px; */
+    /* color: red; */
+    background-color: grey;
+}
+
+.err{
+    color: red;
+}

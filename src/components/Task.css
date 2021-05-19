@@ -1,0 +1,10 @@
+.main{
+    text-align: center;
+    border: solid black 2px;
+    /* background-color: bisque; */
+    background-image:  url("../assets/15.png");
+    margin-right: 35%;
+    margin-left: 35%;
+    margin-bottom: 15px;
+
+}

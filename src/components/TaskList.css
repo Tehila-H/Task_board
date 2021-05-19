@@ -1,0 +1,22 @@
+.button{
+    text-align: center;
+    /* margin-right: 450px; */
+    margin-left: 47%;
+    margin-right: 47%;
+    /* margin-bottom: 20px; */
+    border-radius: 25px;
+    width: 130px;
+    height: 25px;
+}
+
+.button:hover{
+    background-color: gray;
+}
+
+.div{
+    margin-bottom: 20px;
+}
+
+.null{
+    
+}
